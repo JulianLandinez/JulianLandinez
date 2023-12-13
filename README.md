@@ -1,5 +1,5 @@
 # Hola, Soy Julian Landinez
-## - 👀 Estoy interesado en el mundo del desarrollo y la tecnologia
+## - 👀 Estoy interesado en el mundo del desarrollo web y la tecnologia
   🌱 Actualmente esto aprendiendo *desarrollo web backend*
 
   💞️ Busco ser parte de un equipo de trabajo y aportar soluciones de manera efectiva 
