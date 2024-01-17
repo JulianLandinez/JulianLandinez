@@ -8,7 +8,8 @@
 
 ## Herramientas que mas uso
 - Java
-- SQL
+- MySQL
+- NoSQL 
 - Spring Framework
 
 
